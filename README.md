@@ -6,5 +6,6 @@ Please preserve sorted order (by first name).
 - Ioana Crant https://github.com/ioanacrant
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Shadman Hassan https://github.com/Shadow7599
 - Yuri Chernyak https://github.com/yurichernyak
 
